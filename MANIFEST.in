@@ -1,0 +1,3 @@
+# include the README file
+include *.md
+include depictive/__version__
